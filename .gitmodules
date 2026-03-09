@@ -1,0 +1,3 @@
+[submodule "feishu_calendar"]
+	path = feishu_calendar
+	url = https://github.com/LJW0401/feishu_calendar
